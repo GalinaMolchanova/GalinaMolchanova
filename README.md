@@ -1,7 +1,6 @@
 ## Welcome to my Github profile!
 
 - 👋 Hi, I’m Galina Molchanova!
--  QA Course by Vadim Ksenzov 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/galinamolchanovaqa/), [Telegram](https://t.me/molchanovagalina)
 - Git [Watch](https://github.com/GalinaMolchanova/Git)
 - Postman [Watch](https://github.com/GalinaMolchanova/Postman)
